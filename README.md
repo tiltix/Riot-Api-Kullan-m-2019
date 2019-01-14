@@ -2,7 +2,7 @@
 Haftalık Güncellenen Proje bir sonraki güncelleme 20.01
 Riot Api kullanımı hakkında bilgi sahibi olabileceğiniz ücretsiz kaynak dosyaları
 
-Facebook : www.fb.com/rafet563
+İletişim : www.fb.com/rafet563
 
 ## Resimler
 https://i.hizliresim.com/ZXM730.png <br>
