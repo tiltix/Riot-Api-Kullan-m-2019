@@ -4,6 +4,7 @@ Riot Api kullanımı hakkında bilgi sahibi olabileceğiniz ücretsiz kaynak dos
 
 Yardım : www.fb.com/rafet563
 
+<a href="https://hizliresim.com/ZXM730"><img src="https://i.hizliresim.com/ZXM730.png"></a>
 
 ## V 1.1
 - Kullanılan Apiler V4'e uyumlu olacak şekilde güncellendi.
