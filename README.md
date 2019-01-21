@@ -1,6 +1,5 @@
 # Riot Api Kullanımı 2019
-Haftalık Güncellenen Proje bir sonraki güncelleme 20.01
-Riot Api kullanımı hakkında bilgi sahibi olabileceğiniz ücretsiz kaynak dosyaları
+Riot Api'yi nasıl kullanacağınız hakkında bilgi sahibi olabileceğiniz ücretsiz kaynak dosyaları
 
 İletişim : www.fb.com/rafet563
 
