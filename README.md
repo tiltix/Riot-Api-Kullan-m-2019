@@ -1,7 +1,7 @@
 # Riot Api Kullanımı 2019
 Riot Api'yi nasıl kullanacağınız hakkında bilgi sahibi olabileceğiniz ücretsiz kaynak dosyaları
 
-İletişim : www.fb.com/rafet563
+İletişim : ##
 
 ## Resimler
 https://i.hizliresim.com/ZXM730.png <br>
